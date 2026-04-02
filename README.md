@@ -1,1 +1,2 @@
-# IA_Aplicada_a_Industria
+# Curso de IA Aplicada a Indústria Feito pelo SENAI/SP
+#Carga Horária: 200h
